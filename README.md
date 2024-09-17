@@ -1,5 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/Databricks-BR/lab_sql/main/images/header_handson_sql.png">
+Meu primeiro commit pelo Databricks 
+(by Alexandre Costa)
 
 # Databricks SQL Labs 
 
